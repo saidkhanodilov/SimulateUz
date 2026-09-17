@@ -1,0 +1,6 @@
+{
+  "name": "SimulateUz",
+  "description": "SimulateUz - Created by SAIDMUXAMMADXON ODILOV. High-fidelity 3D rocket and satellite simulator with payload weight evaluator, rocket cost advisor, collision avoidance scheduler, orbital force mechanics, and flight mission reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
